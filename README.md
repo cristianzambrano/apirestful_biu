@@ -6,8 +6,8 @@ Este proyecto es una API RESTful construida con **CodeIgniter 4** y **MySQL**, q
 ## 🚀 Instalación y Configuración
 ### **1️⃣ Clonar el repositorio**
 ```bash
- git clone https://github.com/tu-repositorio.git
- cd tu-repositorio
+ git clone https://github.com/cristianzambrano/apirestful_biu
+ cd apirestful_biu
 ```
 
 ### **2️⃣ Instalar CodeIgniter 4**
