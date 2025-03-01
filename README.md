@@ -1,7 +1,7 @@
 # API RESTful con CodeIgniter 4
 
 ## 📌 Descripción
-Este proyecto es una API RESTful construida con **CodeIgniter 4** y **MySQL**, que permite realizar operaciones CRUD sobre productos.
+Este proyecto es una API RESTful construida con **CodeIgniter 4** y **MySQL**, que permite realizar operaciones CRUD sobre una tabla de Productos.
 
 ## 🚀 Instalación y Configuración
 ### **1️⃣ Clonar el repositorio**
