@@ -146,8 +146,3 @@ curl -X DELETE http://localhost:8080/productos/4
 ✅ **MySQL** - Base de datos relacional
 ✅ **Faker** - Generación de datos de prueba
 ✅ **Postman / cURL** - Para pruebas de API
-
-## 📌 Autor
-✍️ Desarrollado por [Tu Nombre]
-
-🚀 ¡Listo para usar en tus proyectos! Si tienes dudas, contáctame. 😃
